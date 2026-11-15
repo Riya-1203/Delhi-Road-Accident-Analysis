@@ -80,7 +80,7 @@ The Power BI report and dashboard screenshots are available in the [`PowerBI`](P
 
 ## Repository Structure
 
-
+```text
 Delhi-Road-Accident-Analysis/
 │
 ├── Data/
