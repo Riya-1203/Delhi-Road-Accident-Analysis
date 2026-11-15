@@ -74,7 +74,7 @@ The time-slot analysis examines the distribution of road accidents across differ
 - The 03:00–06:00 time slot consistently recorded the lowest accident count in every year.
 - The highest individual time-slot count in this comparison was 946 accidents during 18:00–21:00 in 2019.
 
-****Overall**, the analysis indicates that the highest accident count in each year was recorded in either the 18:00–21:00 or 21:00–24:00 time slot, while the early-morning period consistently recorded the lowest counts. These findings describe the distribution of reported accidents and do not establish the reasons behind these patterns.
+**Overall, the analysis indicates that the highest accident count in each year was recorded in either the 18:00–21:00 or 21:00–24:00 time slot, while the early-morning period consistently recorded the lowest counts. These findings describe the distribution of reported accidents and do not establish the reasons behind these patterns.
 
 ## 5. Overall Key Findings
 
