@@ -80,5 +80,3 @@ FROM dbo.TimeSlot_2023;
 -- =============================================
 
 
-
--- Combine time-slot accident records from 2019 to 2023.
